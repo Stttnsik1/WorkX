@@ -11,10 +11,11 @@
 
 <center>
 <img class="hello" src="https://media2.giphy.com/media/JSbUaZYHSyFViDtiDW/giphy.gif?cid=9b38fe91309c4q7im6bvn94k77o5ns75ojlbdcmm6tdt76ra&ep=v1_gifs_username&rid=giphy.gif&ct=g">
-<h1>Find an affordable job at<br>WorkX</h1>
+<h1>Workiks</h1>
+<p>Find an affordable job at<br>Workiks</p>
 
 <a href="Home.html">
-<button class="go"><p>Go WorkX</p></style></button>
+<button class="go"><h2>Go Workiks</h2></style></button>
 </a>
 </center>
 
@@ -45,5 +46,11 @@ button {
     
     p {
     color: white;
+    font-family: roboto;
+    }
+
+    h2 {
+    color: white;
+    font-family: roboto;
     }
 </style>
