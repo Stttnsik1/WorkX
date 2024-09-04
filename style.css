@@ -6,6 +6,7 @@ flex-direction: column;
 -webkit-user-select: none; 
 user-select: none;
 position: fixed;
+background-attachment: fixed;
 }
 
 .roboto-thin {
