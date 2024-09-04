@@ -5,8 +5,7 @@ flex-direction: column;
 -moz-user-select: none; 
 -webkit-user-select: none; 
 user-select: none;
-position: fixed;
-background-attachment: fixed;
+overflow: hidden;
 }
 
 .roboto-thin {
